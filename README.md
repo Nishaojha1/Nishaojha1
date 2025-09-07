@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishaojha1
 - 👀 I’m interested in Learning and exploring new things
-- 🌱 I’m currently learning Full stack web development from coding ninja
+- 🌱 I’m currently working as an Analyst at Samarth eGov a project under Ministry of Education
 - 📫 You can reach me at its.nishaojha@gmail.com
 
 <!---
