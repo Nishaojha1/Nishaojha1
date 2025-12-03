@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishaojha1
+- 👋 Hi, I’m Nisha ojha
 - 👀 I’m interested in Learning and exploring new things
 - 🌱 I’m currently working as an Analyst at Samarth eGov a project under Ministry of Education
 - 📫 You can reach me at its.nishaojha@gmail.com
